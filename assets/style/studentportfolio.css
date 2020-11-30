@@ -85,3 +85,14 @@ p {
     from {opacity: 0;}
     to {opacity: 1;}
 }
+
+
+.hello{
+    float: right;
+
+}
+
+
+.portfolio {
+    float: left;
+}
