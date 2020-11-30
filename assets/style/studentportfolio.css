@@ -21,19 +21,17 @@ p {
 	margin-bottom: 20px;
 }	
 
-.img-style-1 {
-	float: left;
+.home {
+	
 	margin-right: 10px;
-    margin-bottom: 10px;
+    margin-bottom: 80px;
 	padding: 5px;
 	border: 1px solid #CCC;
+	max-width:30%;
+    height:auto;
 }	
 
-.home {
-    max-width:30%;
-    height:auto;
-    
-}
+
 	
 /* tutorial styles */
 
@@ -87,12 +85,13 @@ p {
 }
 
 
-.hello{
+#Home p {
     float: right;
+    text-align: right;
+    margin-top: 50px;
+    margin-left: 320px;
+    padding: 0px;
 
 }
 
 
-.portfolio {
-    float: left;
-}
