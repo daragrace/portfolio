@@ -111,7 +111,7 @@ p {
 
 .trello{
     display: block;
-    width: 40%;
+    width: 30%;
     float: right;
     margin-right:30px;
     margin-left: 20px;
@@ -119,12 +119,12 @@ p {
 
 .aipl{
     display: block;
-    width: 35%;
+    width: 25%;
 }
 
 .com{
     display: block;
-    width: 35%;
+    width: 25%;
     float: right;
     margin-right:78px;
     margin-left: 20px;
