@@ -109,3 +109,23 @@ p {
     margin-left: 20px;
 }
 
+.trello{
+      display: block;
+    width: 40%;
+    float: right;
+    margin-right:30px;
+    margin-left: 20px;
+}
+
+.aipl{
+    display: block;
+    width: 35%;
+}
+
+.com{
+     display: block;
+    width: 35%;
+    float: right;
+    margin-right:78px;
+    margin-left: 20px;
+}
